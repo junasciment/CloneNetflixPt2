@@ -4,6 +4,18 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+
+a {
+  text-decoration: none; 
+  color: inherit; 
+  background-color: transparent; 
+  cursor: pointer; 
+  padding: 0; 
+  margin: 0; 
+  border: none; 
+  font: inherit; 
+}
+
 .navbar {
   width: 100%;
   height: 50px;
